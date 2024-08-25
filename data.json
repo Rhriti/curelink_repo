@@ -1,0 +1,578 @@
+{
+  "Day 1": [
+    {
+      "name": "Evening",
+      "order": 1,
+      "timings": "05:00 PM",
+      "food_items": [
+        [
+          "Roasted Salted Makhana",
+          "Spearmint Tea"
+        ]
+      ]
+    },
+    {
+      "name": "Early Morning",
+      "order": 1,
+      "timings": "06:30 AM",
+      "food_items": [
+        [
+          "Soaked Methi seeds water",
+          "Soaked Almond",
+          "Soaked Walnut"
+        ]
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "order": 1,
+      "timings": "08:30 AM",
+      "food_items": [
+        [
+          "Poha",
+          "Coriander Chutney  ",
+          "Toned Milk"
+        ]
+      ]
+    },
+    {
+      "name": "Lunch",
+      "order": 1,
+      "timings": "01:30 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "Lauki Chane Ki dal",
+          "Zeera Raita",
+          "Tomato Cucumber Salad"
+        ]
+      ]
+    },
+    {
+      "name": "Post Dinner",
+      "order": 1,
+      "timings": "09:30 PM",
+      "food_items": [
+        [
+          "Turmeric Warm Water"
+        ]
+      ]
+    },
+    {
+      "name": "Dinner",
+      "order": 1,
+      "timings": "08:00 PM",
+      "food_items": [
+        [
+          "Daliya With Green Beans",
+          "Mint Chutney  "
+        ]
+      ]
+    },
+    {
+      "name": "Mid Meal",
+      "order": 1,
+      "timings": "11:00 AM",
+      "food_items": [
+        [
+          "Apple",
+          "Sesame seeds",
+          "Sunflower seeds"
+        ]
+      ]
+    }
+  ],
+  "Day 2": [
+    {
+      "name": "Post Dinner",
+      "order": 2,
+      "timings": "09:30 PM",
+      "food_items": [
+        [
+          "Turmeric Warm Water"
+        ]
+      ]
+    },
+    {
+      "name": "Lunch",
+      "order": 2,
+      "timings": "01:30 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "Bhindi Masala",
+          "tomato onion salad",
+          "Curd"
+        ]
+      ]
+    },
+    {
+      "name": "Evening",
+      "order": 2,
+      "timings": "05:00 PM",
+      "food_items": [
+        [
+          "Murmura Chiwda Roasted",
+          "Spearmint Tea"
+        ]
+      ]
+    },
+    {
+      "name": "Mid Meal",
+      "order": 2,
+      "timings": "11:00 AM",
+      "food_items": [
+        [
+          "Banana, ripe",
+          "Sesame seeds",
+          "Sunflower seeds"
+        ]
+      ]
+    },
+    {
+      "name": "Dinner",
+      "order": 2,
+      "timings": "08:00 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "Ghiya Ki Subzi",
+          "tomato onion salad"
+        ]
+      ]
+    },
+    {
+      "name": "Early Morning",
+      "order": 2,
+      "timings": "06:30 AM",
+      "food_items": [
+        [
+          "Soaked Methi seeds water",
+          "Soaked Almond",
+          "Soaked Walnut"
+        ]
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "order": 2,
+      "timings": "08:30 AM",
+      "food_items": [
+        [
+          "Grilled Vegetable Sandwich"
+        ]
+      ]
+    }
+  ],
+  "Day 3": [
+    {
+      "name": "Early Morning",
+      "order": 3,
+      "timings": "06:30 AM",
+      "food_items": [
+        [
+          "Soaked Methi seeds water",
+          "Soaked Almond",
+          "Soaked Walnut"
+        ]
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "order": 3,
+      "timings": "08:30 AM",
+      "food_items": [
+        [
+          "Upma   ",
+          "Coriander Chutney  ",
+          "Toned Milk"
+        ]
+      ]
+    },
+    {
+      "name": "Evening",
+      "order": 3,
+      "timings": "05:00 PM",
+      "food_items": [
+        [
+          "roasted kala chana",
+          "Spearmint Tea"
+        ]
+      ]
+    },
+    {
+      "name": "Post Dinner",
+      "order": 3,
+      "timings": "09:30 PM",
+      "food_items": [
+        [
+          "Turmeric Warm Water"
+        ]
+      ]
+    },
+    {
+      "name": "Dinner",
+      "order": 3,
+      "timings": "08:00 PM",
+      "food_items": [
+        [
+          "Boiled Chole and Rajma with Onion Ginger Green Chillies and Chat Masala",
+          "Mixed Vegetable Soup"
+        ]
+      ]
+    },
+    {
+      "name": "Mid Meal",
+      "order": 3,
+      "timings": "11:00 AM",
+      "food_items": [
+        [
+          "Sesame seeds",
+          "Sunflower seeds",
+          "Apple"
+        ]
+      ]
+    },
+    {
+      "name": "Lunch",
+      "order": 3,
+      "timings": "01:30 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "Punjabi chole",
+          "Curd",
+          "Tomato Cucumber Salad"
+        ]
+      ]
+    }
+  ],
+  "Day 4": [
+    {
+      "name": "Dinner",
+      "order": 4,
+      "timings": "08:00 PM",
+      "food_items": [
+        [
+          "Milk Dalia without Sugar",
+          "Multigrain Toast"
+        ]
+      ]
+    },
+    {
+      "name": "Lunch",
+      "order": 4,
+      "timings": "01:30 PM",
+      "food_items": [
+        [
+          "Vegetable Pulao",
+          "Bathua Raita",
+          "Tomato Cucumber Salad"
+        ]
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "order": 4,
+      "timings": "08:30 AM",
+      "food_items": [
+        [
+          "Vegetable Barley Daliya",
+          "Coriander Chutney  "
+        ]
+      ]
+    },
+    {
+      "name": "Post Dinner",
+      "order": 4,
+      "timings": "09:30 PM",
+      "food_items": [
+        [
+          "Turmeric Warm Water"
+        ]
+      ]
+    },
+    {
+      "name": "Early Morning",
+      "order": 4,
+      "timings": "06:30 AM",
+      "food_items": [
+        [
+          "Soaked Methi seeds water",
+          "Soaked Almond",
+          "Soaked Walnut"
+        ]
+      ]
+    },
+    {
+      "name": "Evening",
+      "order": 4,
+      "timings": "05:00 PM",
+      "food_items": [
+        [
+          "Whole Wheat Mathri",
+          "Spearmint Tea"
+        ]
+      ]
+    },
+    {
+      "name": "Mid Meal",
+      "order": 4,
+      "timings": "11:00 AM",
+      "food_items": [
+        [
+          "Apple",
+          "Sesame seeds",
+          "Sunflower seeds"
+        ]
+      ]
+    }
+  ],
+  "Day 5": [
+    {
+      "name": "Evening",
+      "order": 5,
+      "timings": "05:00 PM",
+      "food_items": [
+        [
+          "Spearmint Tea",
+          "Makhana"
+        ]
+      ]
+    },
+    {
+      "name": "Dinner",
+      "order": 5,
+      "timings": "08:00 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "Mixed Vegetable",
+          "tomato onion salad"
+        ]
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "order": 5,
+      "timings": "08:30 AM",
+      "food_items": [
+        [
+          "Wheat Flakes With Milk"
+        ]
+      ]
+    },
+    {
+      "name": "Mid Meal",
+      "order": 5,
+      "timings": "11:00 AM",
+      "food_items": [
+        [
+          "Coconut water",
+          "Sesame seeds",
+          "Sunflower seeds"
+        ]
+      ]
+    },
+    {
+      "name": "Early Morning",
+      "order": 5,
+      "timings": "06:30 AM",
+      "food_items": [
+        [
+          "Soaked Methi seeds water",
+          "Soaked Almond",
+          "Soaked Walnut"
+        ]
+      ]
+    },
+    {
+      "name": "Post Dinner",
+      "order": 5,
+      "timings": "09:30 PM",
+      "food_items": [
+        [
+          "Turmeric Warm Water"
+        ]
+      ]
+    },
+    {
+      "name": "Lunch",
+      "order": 5,
+      "timings": "01:30 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "plain toor dal",
+          "Zeera Raita",
+          "Tomato Cucumber Salad"
+        ]
+      ]
+    }
+  ],
+  "Day 6": [
+    {
+      "name": "Mid Meal",
+      "order": 6,
+      "timings": "11:00 AM",
+      "food_items": [
+        [
+          "Sesame seeds",
+          "Sunflower seeds",
+          "Watermelon"
+        ]
+      ]
+    },
+    {
+      "name": "Lunch",
+      "order": 6,
+      "timings": "01:30 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "Paneer Bhurji",
+          "Tomato Cucumber Salad",
+          "Mixed vegetable raita"
+        ]
+      ]
+    },
+    {
+      "name": "Dinner",
+      "order": 6,
+      "timings": "08:00 PM",
+      "food_items": [
+        [
+          "Grilled Paneer Tikka",
+          "Mixed Vegetable Soup"
+        ]
+      ]
+    },
+    {
+      "name": "Evening",
+      "order": 6,
+      "timings": "05:00 PM",
+      "food_items": [
+        [
+          "Murmura Chiwda Roasted",
+          "Spearmint Tea"
+        ]
+      ]
+    },
+    {
+      "name": "Early Morning",
+      "order": 6,
+      "timings": "06:30 AM",
+      "food_items": [
+        [
+          "Soaked Methi seeds water",
+          "Soaked Almond",
+          "Soaked Walnut"
+        ]
+      ]
+    },
+    {
+      "name": "Post Dinner",
+      "order": 6,
+      "timings": "09:30 PM",
+      "food_items": [
+        [
+          "Turmeric Warm Water"
+        ]
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "order": 6,
+      "timings": "08:30 AM",
+      "food_items": [
+        [
+          "Oats Vegetable Upma",
+          "Coriander Chutney  "
+        ]
+      ]
+    }
+  ],
+  "Day 7": [
+    {
+      "name": "Breakfast",
+      "order": 7,
+      "timings": "08:30 AM",
+      "food_items": [
+        [
+          "Mix Dal Cheela with Methi",
+          "Coriander Chutney  "
+        ]
+      ]
+    },
+    {
+      "name": "Early Morning",
+      "order": 7,
+      "timings": "06:30 AM",
+      "food_items": [
+        [
+          "Soaked Methi seeds water",
+          "Soaked Almond",
+          "Soaked Walnut"
+        ]
+      ]
+    },
+    {
+      "name": "Post Dinner",
+      "order": 7,
+      "timings": "09:30 PM",
+      "food_items": [
+        [
+          "Turmeric Warm Water"
+        ]
+      ]
+    },
+    {
+      "name": "Dinner",
+      "order": 7,
+      "timings": "08:00 PM",
+      "food_items": [
+        [
+          "Soya Daliya"
+        ]
+      ]
+    },
+    {
+      "name": "Lunch",
+      "order": 7,
+      "timings": "01:30 PM",
+      "food_items": [
+        [
+          "Oats Roti",
+          "Aloo Matar Gajar Shimla Mirch Sabji",
+          "Palak Raita ",
+          "Tomato Cucumber Salad"
+        ]
+      ]
+    },
+    {
+      "name": "Evening",
+      "order": 7,
+      "timings": "05:00 PM",
+      "food_items": [
+        [
+          "Spearmint Tea",
+          "roasted kala chana"
+        ]
+      ]
+    },
+    {
+      "name": "Mid Meal",
+      "order": 7,
+      "timings": "11:00 AM",
+      "food_items": [
+        [
+          "Kiwi",
+          "Coconut water",
+          "Sesame seeds",
+          "Sunflower seeds"
+        ]
+      ]
+    }
+  ],
+  "program_name": "PCOS"
+}
